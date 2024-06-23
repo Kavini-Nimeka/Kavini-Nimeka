@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavini Nimeka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<div>
-<img src="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg" width="300" height="200" />
-</div>
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavini-nimeka&label=Profile%20views&color=0e75b6&style=flat" alt="kavini-nimeka" /> </p>
 
 ---
