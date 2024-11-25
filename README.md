@@ -14,9 +14,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="left" width="30px">&nbsp;***Connect with me:***
 <p align="left">
-<a href="https://www.linkedin.com/in/kavini nimeka/"><img src="https://img.shields.io/badge/-Kavini%20Nimeka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/kavini nimeka"><img src="https://img.shields.io/badge/-Kavini Nimeka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/kavii_514/"><img src="https://img.shields.io/badge/-kavii_514-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kavini-nimeka-300a19319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Kavini%20Nimeka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/p/Kavini-Nimeka-100088920890495/?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Kavini Nimeka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/kavii_514_/profilecard/?igsh=MWkzcGZ1c2hlbDhhNw=="><img src="https://img.shields.io/badge/-kavii_514-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:nimekakavii514@gmail.com"><img src="https://img.shields.io/badge/-Kavini Nimeka-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/kavini nimeka" target="blank"><img align="center" src="https://img.shields.io/badge/-Kavini Nimeka-islamicgreen?style=flat&logo=HackerRank&logoColor=black" /></a>
 </p>
