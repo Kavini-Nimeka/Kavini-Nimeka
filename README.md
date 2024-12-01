@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/p/Kavini-Nimeka-100088920890495/?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Kavini Nimeka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/kavii_514_/profilecard/?igsh=MWkzcGZ1c2hlbDhhNw=="><img src="https://img.shields.io/badge/-kavii_514-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:nimekakavii514@gmail.com"><img src="https://img.shields.io/badge/-Kavini Nimeka-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/kavini nimeka" target="blank"><img align="center" src="https://img.shields.io/badge/-Kavini Nimeka-islamicgreen?style=flat&logo=HackerRank&logoColor=black" /></a>
+<a href="https://www.hackerrank.com/profile/nimekakavii514" target="blank"><img align="center" src="https://img.shields.io/badge/-Kavini Nimeka-islamicgreen?style=flat&logo=HackerRank&logoColor=black" /></a>
 </p>
 
 ---
